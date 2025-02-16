@@ -27,7 +27,7 @@ Ensure you have Node.js installed on your system. You can download it from [Node
    ```
 2. Navigate to the project directory:
    ```sh
-   cd node-server-exploration
+   cd MBA_Simple_Server/
    ```
 
 ### Usage
