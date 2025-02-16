@@ -38,6 +38,8 @@ npm run dev
 ```
 The server will be running on `http://localhost:3333`. You can change it on file 'src/server.js'
 
+To stop the server, press `CTRL + C` in the terminal.
+
 ### API Endpoints
 
 #### List all users
