@@ -2,8 +2,6 @@
 
 This project is designed to explore and understand fundamental server-side concepts in Node.js without external frameworks or libraries. Exploring concepts such as internal Node.js modules, especially HTTP and Streams, and HTTP fundamentals such as Requests, Responses, Headers, Middlewares, status code, local file storage and different types of parameters.
 
-RESTful API with Node.js focused on the fundamentals of the technology, . 
-
 ## Features
 
 - Middleware implementation
