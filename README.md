@@ -29,6 +29,10 @@ Ensure you have Node.js installed on your system. You can download it from [Node
    ```sh
    cd MBA_Simple_Server/
    ```
+3. install the dependencies:
+   ```sh
+   npm i
+   ```
 
 ### Usage
 
